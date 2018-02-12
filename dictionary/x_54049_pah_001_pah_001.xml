@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="PAH 001" max_length="40" name="x_54049_pah_001_pah_001" type="collection">
+        <element label="PAH String" max_length="50" name="pah_string" type="string"/>
+    </element>
+</database>
