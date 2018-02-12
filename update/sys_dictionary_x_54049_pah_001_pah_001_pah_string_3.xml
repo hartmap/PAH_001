@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_54049_pah_001_pah_001">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="pah_string_3" table="x_54049_pah_001_pah_001">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>PAH String 3</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,12 +28,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>pah_string_3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>200</max_length>
         <name>x_54049_pah_001_pah_001</name>
         <next_element/>
         <primary>false</primary>
@@ -50,19 +50,19 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-02-12 20:02:11</sys_created_on>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-02-12 20:13:10</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9590b0344f101b408f458a4e0210c76e</sys_id>
+        <sys_id>5d9178744f101b408f458a4e0210c7e5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_54049_pah_001_pah_001</sys_name>
+        <sys_name>PAH String 3</sys_name>
         <sys_package display_value="PAH 001" source="x_54049_pah_001">237e20f0db5413007c1372ffbf961933</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="PAH 001">237e20f0db5413007c1372ffbf961933</sys_scope>
-        <sys_update_name>sys_dictionary_x_54049_pah_001_pah_001_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-02-12 20:08:25</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_54049_pah_001_pah_001_pah_string_3</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-02-12 20:13:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

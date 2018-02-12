@@ -9,7 +9,6 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_54049_pah_001.pah_001_user</name>
-        <scoped_admin>false</scoped_admin>
         <suffix>pah_001_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
